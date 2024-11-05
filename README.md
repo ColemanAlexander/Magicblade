@@ -6,6 +6,9 @@ A turn-based card combat game inspired by Slay the Spire, set in a medieval Euro
 - C#
 - (Add other technologies as you implement them)
 
+## Motivation
+The combat in Slay the Spire is so simple yet enthralling that I want to implement it myself but bring it to a different genre. I find myself spending countless hours of free time in that game so the formula seems great. Medieval Europe brings an element of war, witches, wizards, tyranny, rebellion and all that jazz into a melting pot of card based combat.
+
 ## Current Features
 - Turn-based combat system
 - Card Types:
