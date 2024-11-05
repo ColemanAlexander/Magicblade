@@ -30,3 +30,6 @@ The combat in Slay the Spire is so simple yet enthralling that I want to impleme
 
 ## How to Run
 To be added
+
+## 🤴 Contributing
+To be added
